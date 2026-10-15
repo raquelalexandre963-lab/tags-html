@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Título da Página</title>
+</head>
+<body>
+    <h1>Primeiro titulo</h1>
+    <p>
+        Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>.
+        Donec congue nisl a magna tempus dignissim.
+        Curabitur eget porta lacus, eu bibendum leo.
+        Mauris lorem, <em>convallis eget sodales ullamcorper</em>, semper eu purus.
+        Aenean vitae varius ex. Maecenas sagittis diam quis tincidunt blandit.
+        Donec id egestas nisl. Nullam sollicitudin arcu quis risus dignissim eleifend.
+        Morbi ipsum augue, <s>aliquet eget ante ac</s>, feugiat interdum nisl.
+    </p>
+
+    <hr>
+
+    <h2>Subtitulo</h2>
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec congue nisl a magna tempus dignissim. H<sub>2</sub>O é importante.
+        Este texto foi <del>excluido</del> e <ins>inserido</ins> no formato <i>italic</i>.
+    </p>
+
+</body>
+</html>
