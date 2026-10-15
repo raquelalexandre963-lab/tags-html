@@ -20,7 +20,7 @@
     <h2>Subtitulo</h2>
     <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Donec congue nisl a magna tempus dignissim. H<sub>2</sub>O é importante.
+        Donec congue nisl a magna tempus dignissim. H<sub>2</sub>o é importante.
         Este texto foi <del>excluido</del> e <ins>inserido</ins> no formato <i>italic</i>.
     </p>
 
